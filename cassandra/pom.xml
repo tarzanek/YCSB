@@ -39,8 +39,8 @@ LICENSE file.
   <dependencies>
     <!-- CQL driver -->
     <dependency>
-      <groupId>com.datastax.cassandra</groupId>
-      <artifactId>cassandra-driver-core</artifactId>
+      <groupId>com.scylladb</groupId>
+      <artifactId>scylla-driver-core</artifactId>
       <version>${cassandra.cql.version}</version>
     </dependency>
     <dependency>
